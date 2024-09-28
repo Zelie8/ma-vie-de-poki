@@ -1,17 +1,12 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+J'aime beaucoup faire de l'équitation, j'en fais à un centre équestre à 30 minutes à vélo de chez moi.
+J'ai même inventer un centre équestre entier !
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+J'aime bien aussi les mangas et les films du Studio Ghibli
 
-## Nos activités
-
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
-
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+A part entière, j'aime bien aussi les pokémons :
+C'est génial, quand on y pense, en fait c'est des sortes de chimères trop bizarres qui t'obéissent au doigt et à l’œil ! 
